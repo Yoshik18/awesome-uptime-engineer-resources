@@ -46,6 +46,7 @@ These guides and resource collections are a sensible entry point. You can follow
 
 ### Linux and operating systems
 
+- [Linux Load Average, I/O Wait and Steal Time Explained](https://www.uptime.engineer/p/linux-load-average-io-wait-and-steal-time-explained)
 - [Linux Memory Explained: Free vs Available, Cache & Swap](https://www.uptime.engineer/p/linux-memory-page-cache-buffers-and-available-ram)
 - [How to Diagnose Stuck Linux Processes Using /proc](https://www.uptime.engineer/p/linux-processes-that-do-nothing-explained)
 - [Processes vs Threads vs Tasks: Key Differences Explained](https://www.uptime.engineer/p/process-threads-tasks)
@@ -58,6 +59,7 @@ These guides and resource collections are a sensible entry point. You can follow
 
 ### Networking and internet protocols
 
+- [Nginx Reverse Proxy Explained: Why Put It in Front of Your App?](https://www.uptime.engineer/p/nginx-reverse-proxy-explained-why-put-it-in-front-of-your-app)
 - [How BGP Failover Reroutes Traffic After a Network Failure](https://www.uptime.engineer/p/how-internet-routing-recovers-from-network-failures)
 - [DNS Changed but Users Reach the Old Service: How to Troubleshoot](https://www.uptime.engineer/p/dns-changed-some-users-still-reaching-the-old-service)
 - [AWS VPC Networking Explained: NAT Gateways and PrivateLink](https://www.uptime.engineer/p/aws-networking)
@@ -75,6 +77,7 @@ These guides and resource collections are a sensible entry point. You can follow
 
 ### Kubernetes, containers and cloud
 
+- [How Kubernetes Networking Works: From a Service IP to Your Pod](https://www.uptime.engineer/p/how-kubernetes-networking-works-from-a-service-ip-to-your-pod)
 - [How to Choose a Cloud Region for Latency, Cost, and Recovery](https://www.uptime.engineer/p/choosing-a-cloud-region-latency-cost-and-resilience)
 - [Terraform vs OpenTofu: How to Choose for a New Project](https://www.uptime.engineer/p/terraform-vs-opentofu)
 - [AWS IAM Explained: Policies, Roles, and Access Denied](https://www.uptime.engineer/p/aws-iam-simply-explained)
@@ -87,6 +90,7 @@ These guides and resource collections are a sensible entry point. You can follow
 
 ### Distributed systems and system design
 
+- [Idempotency Explained: How Payment Systems Avoid Charging You Twice](https://www.uptime.engineer/p/idempotency-explained)
 - [Consistent Hashing vs Modulo Hashing: Key Remapping](https://www.uptime.engineer/p/why-adding-1-server-can-remap-80-of-your-keys)
 - [Eventual Consistency Explained: Guarantees, Examples, and Uses](https://www.uptime.engineer/p/eventual-consistency)
 - [WhatsApp Architecture](https://www.uptime.engineer/p/whatsapp-architecture)
@@ -107,6 +111,8 @@ These guides and resource collections are a sensible entry point. You can follow
 
 ### SRE career and interviews
 
+- [The Most Important Tech Skill Of The AI Era (It's Not Coding)](https://www.uptime.engineer/p/most-important-tech-skill-ai-era-not-coding)
+- [The Future of DevOps: Why AI Still Needs Infrastructure Engineers](https://www.uptime.engineer/p/the-future-of-devops-why-ai-still-needs-infrastructure-engineers)
 - [Which DevOps Certs Are Worth It in 2026](https://www.uptime.engineer/p/which-devops-certs-are-worth-it-in-2026)
 - [Why I Left a Large Company for a Startup](https://www.uptime.engineer/p/why-i-left-a-large-company-for-a-startup)
 - [21 Lessons I Learned in My First 3 Years as an SRE](https://www.uptime.engineer/p/21-lessons-i-learned-in-my-first-3-years-as-an-sre)
